@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
+//I have solved this problem though BFS keeping track of the "1"(lands) using a queue and converting them to 0 after visiting them.
 public class numberOfIslands {
     public static void main(String[] args) {
         //Using pre defined input just for testing
