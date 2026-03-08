@@ -3,6 +3,7 @@ import java.util.Queue;
 
 public class numberOfIslands {
     public static void main(String[] args) {
+        //Using pre defined input just for testing
         int grid[][] = {
                 {1, 1, 0, 0, 0},
                 {1, 1, 0, 0, 0},
